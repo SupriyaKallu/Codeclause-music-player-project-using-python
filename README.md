@@ -1,2 +1,2 @@
-# Codeclause-music-player-project-using-python
+# Codeclause-musicplayer-project-using-python
 Created a music player using the python
